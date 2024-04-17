@@ -18,7 +18,7 @@ sig [SHA1]
 ![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/696cd995-351c-498a-8e4c-9e0fc62498ec)
 
 
-- Realignement example (Left: OG ; Right: Patched)
+- Realignement visually represented (Left: OG ; Right: Patched) [Yellow: Modified ; White: Unchanged]
 
 ![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/1c626675-a6c9-4b20-bed4-cef490c9c73a)
 
