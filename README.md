@@ -24,7 +24,7 @@ sig [SHA1]
 
 
 
-- All credits goes to orginal code developper, I simply saw people complaining about WinDefender being a karen so I guess it might help someone ¯\_(ツ)_/¯
+- All credits goes to orginal code developper, I simply saw people complaining about WinDefender being a karen so I guess it might help someone ¯\\_(ツ)_/¯
 
 
 
