@@ -1,3 +1,37 @@
+# Same as original with some meta / sig workaround (packing)
+- Didn't test it on Win Defender yet this is a fix attempt.
+- this workaround is only meta & sig based, 0 line of code has been changed from initial repo, only signatures, meta, ... 
+![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/a06f5b5f-a074-4882-a31a-2f7c349bea86)
+
+- To go more in details, I simply rewrote meta data to some more known ones & realign hex.
+
+New:
+sig [SHA1]
+`a8c892c7d64255637c4dcb89fa7a610050a92089`
+![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/8c60dc0f-0726-4324-8747-6bedc5826728)
+
+
+
+Old:
+sig [SHA1]
+`d10143b81639024c2a8aa16c15973220248d26c8`
+![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/696cd995-351c-498a-8e4c-9e0fc62498ec)
+
+
+- Realignement example (Left: OG ; Right: Patched)
+
+![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/1c626675-a6c9-4b20-bed4-cef490c9c73a)
+
+
+
+- All credits goes to orginal code developper, I simply saw people complaining about WinDefender being a karen so I guess it might help someone ¯\_(ツ)_/¯
+
+
+
+
+
+
+
 
 <h1 align="center">
   <br>
