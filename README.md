@@ -24,6 +24,32 @@ sig [SHA1]
 
 
 
+- To make it fully undetected some changes are needed in code.
+
+> [!warning]
+> The following functions are detected:
+
+> Event 1
+```
+Description: Drops the executable file immediately after the start.
+Filename:    Rebuilder.exe
+Md5:         8ae97e845d615975af71ca1a0c07b8d6
+Sha1:        a8c892c7d64255637c4dcb89fa7a610050a92089
+Sha256:      0a62dce8aee688d8196153104442eb481f242ce379f9561147196aa9c0908a25
+```
+
+> Event 2
+```
+Description: Creates file in the systems drive root
+Access:      READ_CONTROL, SYNCHRONIZE, FILE_READ_DATA, FILE_READ_EA, FILE_READ_ATTRIBUTES
+Created:     SUPERSEDED
+Device:      DISK_FILE_SYSTEM
+Name:        C:\desktop.ini
+Object:      FILE
+Operation:   CREATE
+Status:      0xC0000034
+```
+
 - All credits goes to orginal code developper, I simply saw people complaining about WinDefender being a karen so I guess it might help someone ¯\\_(ツ)_/¯
 
 
