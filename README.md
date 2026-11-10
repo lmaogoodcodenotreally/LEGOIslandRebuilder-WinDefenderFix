@@ -1,9 +1,7 @@
 # Same as original with some meta / sig workaround (packing)
 - Didn't test it on Win Defender yet this is a fix attempt.
-- this workaround is only meta & sig based, 0 line of code has been changed from initial repo, only signatures, meta, ... (hex as well obviously)
+- this workaround is only metadata & sig based, 0 line of code has been changed from initial repo
 ![image](https://github.com/lmaogoodcodenotreally/LEGOIslandRebuilder-WinDefenderFix/assets/147619006/a06f5b5f-a074-4882-a31a-2f7c349bea86)
-
-- To go more in details, I simply rewrote meta data to some more known ones & realign hex.
 
 New:
 sig [SHA1]
